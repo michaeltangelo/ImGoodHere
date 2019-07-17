@@ -1,0 +1,2 @@
+# ImGoodHere
+Equity calculator
